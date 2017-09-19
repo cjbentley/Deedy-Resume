@@ -157,7 +157,7 @@ I am a highly motivated second-year Mechanical Engineering student with strong p
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Experience}
-\runsubsection{Aecon Group}
+\runsubsection{Aecon Group Inc.}
 \descript{| Engineering Intern }
 \location{May 2017 - August 2017 | Fort St. John, BC}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
@@ -176,6 +176,7 @@ I am a highly motivated second-year Mechanical Engineering student with strong p
 \item Designed components for CubeSat satellite structural redesign.
 \item Collaborated with other subsystems to integrate attitude control hardware and communications antennas into the satellite frame.
 \item Documented and simulated structural design properties for presentation at the Canadian Satellite Design Challenge's CDR (Critical Design Review).
+\item Developed understanding of DFM and designing to specification (maximizing resistance to stress while minimizing weight and cost to manufacture).
 \end{tightemize}
 \sectionsep
 
