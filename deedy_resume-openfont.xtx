@@ -117,12 +117,11 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Coursework}
-	\subsection{Undergraduate}
-		Electrical Circuits \& Instrumentation \\
-		Electromechanical Devices \& Power Processing \\
-		Structure \& Properties of Materials \\
-		Control of Properties of Materials \\
-		Mechanics of Deformable Solids \\
+	Electrical Circuits \& Instrumentation \\
+	Electromechanical Devices \& Power Processing \\
+	Structure \& Properties of Materials \\
+	Control of Properties of Materials \\
+	Mechanics of Deformable Solids \\
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -150,7 +149,7 @@ LinkedIn://  \href{https://www.linkedin.com/in/cameron-bentley}{\bf cameron-bent
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Summary of Qualifications}
-I am a highly motivated second-year Mechanical Engineering student with strong programming \& administration skills and an ambition to further develop my skills in a challenging environment. I can effectively and clearly communicate ideas, and through my project experience I have learned to work in high-performance groups as both a leader and a member.
+I am a highly motivated second-year Mechanical Engineering student with strong programming \& administration skills and an ambition to further develop my skills through challenging experience. I can effectively and clearly communicate ideas, and through my projects and work experience I have learned to work in high-performance groups as both a leader and a member. I am willing and able to work hard towards difficult goals.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -162,10 +161,10 @@ I am a highly motivated second-year Mechanical Engineering student with strong p
 \location{May 2017 - August 2017 | Fort St. John, BC}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item On-site team member during a gas cogeneration facility turnaround operation. 
+\item On-site intern during a gas cogeneration facility turnaround operation. 
 \item Assisted with project controls, planning, scheduling, QC, and reporting.
 \item Developed red line corrections and P\&ID’s for in-field revisions to IFC drawings.
-\item Automated reporting and other office processes with Power Query and VBA.
+\item Automated reporting and other office processes with Power Pivot and VBA.
 \end{tightemize}
 \sectionsep
 
@@ -180,12 +179,18 @@ I am a highly motivated second-year Mechanical Engineering student with strong p
 \end{tightemize}
 \sectionsep
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Projects
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
 \runsubsection{AIM Engineering Challenge}
 \descript{| 1\textsuperscript{st} Place Group Leader  }
 \location{January 2016 – May 2016 | Calgary, AB}
 \begin{tightemize}
 \item Challenge set by Alta Injection Molding (AIM) to improve the design of a reusable coffee pod for a Keurig machine. 
 \item Developed \& tested a new prototype and presented this prototype to the competition host.
+\item Group placed first; company integrated suggested changes into new pod design.
 \end{tightemize}
 \sectionsep
 
@@ -193,7 +198,7 @@ I am a highly motivated second-year Mechanical Engineering student with strong p
 \descript{| Group Member }
 \location{January 2017 – April 2017 | Waterloo, ON}
 \begin{tightemize}
-\item Developed a model automated forklift for a school project, capable of sorting inventory into different colour coded areas (written in C).
+\item Developed a model automated forklift for a course project, capable of sorting inventory into different colour coded areas (written in RobotC).
 \end{tightemize}
 \sectionsep
 
