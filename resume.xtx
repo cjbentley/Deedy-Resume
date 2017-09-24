@@ -45,7 +45,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 
-\documentclass[]{deedy-resume-openfont}
+\documentclass[]{resume}
 \usepackage{fancyhdr}
  
 \pagestyle{fancy}
@@ -154,7 +154,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Summary of Qualifications}
-I am a highly motivated second-year Mechanical Engineering student with strong programming, design, \& administration skills. I am ambitious to further develop my skills through challenging work and project experience. I am capable of working in high-performance groups as both a leader and a member. My interests and skills are focused around computer hardware and software, aerospace, and automation. 
+I am a highly motivated second-year Mechanical Engineering student with strong programming, design, \& administration skills. I am ambitious to further develop my skills through challenging work and project experience, as well as to experience different industries and locations. I am capable of working in high-performance groups as both a leader and a member. My interests and skills are focused around computer hardware and software, aerospace, and automation. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -204,6 +204,7 @@ I am a highly motivated second-year Mechanical Engineering student with strong p
 \location{January 2017 – April 2017 | Waterloo, ON}
 \begin{tightemize}
 \item Developed a model automated forklift for a course project, capable of sorting inventory into different colour coded areas (written in RobotC).
+\item Received score of 5/5 for robot performance.
 \end{tightemize}
 \sectionsep
 
