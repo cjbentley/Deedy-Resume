@@ -88,19 +88,19 @@
 
 \section{Skills}
 
-\subsection{Programming}
-	\location{Experienced}
-		C++ \textbullet{} VBA \textbullet{} Bash \textbullet{} HTML \\ \medskip
-	\location{Fundamental Knowledge}
-		Python \textbullet{} JavaScript \textbullet{} CSS \textbullet{} Git Versioning \\ \medskip
-\sectionsep
-
 \subsection{CAD/Technical Drafting}
 	\location{CAD \& Markup Software}
 		SolidWorks \textbullet{}   AutoCAD \textbullet{} Fusion 360 \textbullet{} \\
 		BlueBeam Revu \\ \medskip
 	\location{Competencies}
 		GD\&T \textbullet{} P\&IDs \textbullet{} DFM\\ \medskip
+\sectionsep
+
+\subsection{Programming}
+	\location{Experienced}
+		C++ \textbullet{} VBA \textbullet{} Bash \textbullet{} HTML \\ \medskip
+	\location{Fundamental Knowledge}
+		Python \textbullet{} JavaScript \textbullet{} CSS \textbullet{} Git Versioning \\ \medskip
 \sectionsep
 
 \subsection{System Administration}
@@ -129,13 +129,13 @@
 
 
 \section{Additional Info}
+	\location{Certifications \& Endorsements}
+		Driver's Licence \textbullet{} H\textsubscript{2}S Alive \textbullet{} WHMIS\\ \medskip
 	\location{Citizenship}
 		Canadian \& EU Citizenship (UK) \\ \medskip
 	\location{Interests}
-		Computers \textbullet{} Aerospace \textbullet{} Robotics \textbullet{} Automotive \\ \medskip
-	\location{Links/Social Media}
-		Website: \href{http://bentley.sh}{\bf bentley.sh} \\
-		GitHub: \href{https://github.com/cjbentley}{\bf cjbentley} \\
+		Automotive \textbullet{} Aerospace \textbullet{} Computers \textbullet{} Robotics \\ \medskip
+	\location{Links}
 		LinkedIn:  \href{https://www.linkedin.com/in/cameron-bentley}{\bf cameron-bentley} \\
 
 
@@ -154,17 +154,35 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Summary of Qualifications}
-I am a highly motivated second-year Mechanical Engineering student with strong programming, design, \& administration skills. I am ambitious to further develop my skills through challenging work and project experience, as well as to experience different industries and locations. I am capable of working in high-performance groups as both a leader and a member. My interests and skills are focused around computer hardware and software, aerospace, and automation. 
+I am a highly motivated Mechanical Engineering student with strong administration and design skills and a strong interest in the automotive industry. I am ambitious to develop new skills through challenging work placements, as well as to experience new industries and locations. I am capable of working in fast-paced environments as both a leader and a member. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Experience}
+\section{Work Experience}
+
 \runsubsection{Aecon Group Inc.}
-\descript{| Engineering Intern }
+\descript{| Engineering Intern - Calgary Office }
+\location{January 2018 - April 2018 | Calgary, AB}
+%\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\hfill
+
+
+\begin{tightemize}
+\item Office intern during pre-build phase of CNRL's Kirby North metering station.
+\item Created Site-Specific Safety Plan, Emergency Response Procedure and other critical safety \& regulatory documentation.
+\item Developed procurement contracts and cost comparisons between vendors.
+\item Processed procurement information with SAP and managed document control.
+\item Collaborated in development of construction schedule using Primavera P6.
+\item Reviewed drawings, models, and PFDs to ensure accuracy prior to issuance.
+\item Automated reporting, document control, and other office processes with Power Pivot, VBA, and Bluebeam.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Aecon Group Inc.}
+\descript{| Engineering Intern - On-Site }
 \location{May 2017 - August 2017 | Fort St. John, BC}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
 \item On-site intern during a gas cogeneration facility turnaround operation. 
 \item Assisted with project controls, planning, scheduling, QC, and reporting.
@@ -173,6 +191,12 @@ I am a highly motivated second-year Mechanical Engineering student with strong p
 \item Automated reporting and other office processes with Power Pivot and VBA.
 \end{tightemize}
 \sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Projects
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Projects}
 
 \runsubsection{WatSat Satellite Design Team}
 \descript{| Structures Subsystem Lead }
@@ -185,11 +209,6 @@ I am a highly motivated second-year Mechanical Engineering student with strong p
 \end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     Projects
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Projects}
 \runsubsection{AIM Engineering Challenge}
 \descript{| 1\textsuperscript{st} Place Group Leader  }
 \location{January 2016 – May 2016 | Calgary, AB}
@@ -207,28 +226,6 @@ I am a highly motivated second-year Mechanical Engineering student with strong p
 \item Developed a model automated forklift for a course project, capable of sorting inventory into different colour coded areas (written in RobotC).
 \item Received score of 5/5 for robot performance.
 \end{tightemize}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     CERTIFICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Certifications} 
-\begin{tabular}{rll}
-2017 & H\textsubscript{2}S Alive\\
-2017 & WHMIS\\
-\end{tabular}
-\sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Awards} 
-\begin{tabular}{rll}
-2016 & President's Scholarship & University of Waterloo\\
-2016 & Alexander Rutherford Scholarship & West Island College\\
-\end{tabular}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
