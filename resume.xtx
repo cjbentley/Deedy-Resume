@@ -78,7 +78,7 @@
 
 \subsection{University of Waterloo}
 \descript{BASc in Mechanical Engineering}
-\location{Expected 2021 | Waterloo, ON}
+\location{Expected 2022 | Waterloo, ON}
 \sectionsep
 
 
@@ -136,7 +136,10 @@
 	\location{Interests}
 		Automotive \textbullet{} Aerospace \textbullet{} Computers \textbullet{} Robotics \\ \medskip
 	\location{Links}
+		Website: \href{https://bentley.sh/}{\bf bentley.sh} \\
 		LinkedIn:  \href{https://www.linkedin.com/in/cameron-bentley}{\bf cameron-bentley} \\
+		GitHub:  \href{https://github.com/cjbentley}{\bf cjbentley} \\
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -162,33 +165,44 @@ I am a highly motivated Mechanical Engineering student with strong administratio
 
 \section{Work Experience}
 
-\runsubsection{Aecon Group Inc.}
-\descript{| Engineering Intern - Calgary Office }
-\location{January 2018 - April 2018 | Calgary, AB}
+\runsubsection{Aecon Group, Inc.}
+\descript{| Intern Project Coordinator }
+\location{January 2019 - April 2019 | Calgary, AB}
 %\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\vspace{-2pt}
 \hfill
-
-
 \begin{tightemize}
-\item Office intern during pre-build phase of CNRL's Kirby North metering station.
+\item Project coordinator for platform installation on Enbridge T-South compressor station.
+\item Managed requisitions, labour \& material tracking, and equipment acquisition.
+\item Assisted with subcontract disputes, KPI reports, and cost control.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{NouvLR Group}
+\descript{| Engineering Intern }
+\location{September 2018 - December 2018 | Montréal, QC}
+\vspace{-10pt}
+\hfill
+\begin{tightemize}
+\item Design management intern during early construction phase of the Réseau express métropolitain LRT network in Montréal.
+\end{tightemize}
+\sectionsep
+
+\runsubsection{Aecon Group, Inc.}
+\descript{| Engineering Intern (2 terms) }
+\location{May 2017 - Aug. 2017 \& Jan. 2018 - Apr. 2018 | Fort St. John, BC \& Calgary, AB}
+\vspace{-10pt}
+\hfill
+\begin{tightemize}
+\item On-site intern during a gas cogeneration facility turnaround operation, and office intern during pre-build phase of CNRL's Kirby North metering station.
+\item Assisted with project controls, planning, scheduling, QC, and reporting.
+\item Developed red line corrections and P\&ID’s for in-field revisions to IFC drawings, and reviewed drawings, models, and PFDs to ensure accuracy prior to issuance.
+\item Analysed productivity and costs to improve cost control \& efficiency.
 \item Created Site-Specific Safety Plan, Emergency Response Procedure and other critical safety \& regulatory documentation.
 \item Developed procurement contracts and cost comparisons between vendors.
 \item Processed procurement information with SAP and managed document control.
 \item Collaborated in development of construction schedule using Primavera P6.
-\item Reviewed drawings, models, and PFDs to ensure accuracy prior to issuance.
 \item Automated reporting, document control, and other office processes with Power Pivot, VBA, and Bluebeam.
-\end{tightemize}
-\sectionsep
-
-\runsubsection{Aecon Group Inc.}
-\descript{| Engineering Intern - On-Site }
-\location{May 2017 - August 2017 | Fort St. John, BC}
-\begin{tightemize}
-\item On-site intern during a gas cogeneration facility turnaround operation. 
-\item Assisted with project controls, planning, scheduling, QC, and reporting.
-\item Developed red line corrections and P\&ID’s for in-field revisions to IFC drawings.
-\item Analysed productivity and other metrics and created reports on inefficiencies to maximize productivity and minimize costs.
-\item Automated reporting and other office processes with Power Pivot and VBA.
 \end{tightemize}
 \sectionsep
 
@@ -200,10 +214,10 @@ I am a highly motivated Mechanical Engineering student with strong administratio
 
 \runsubsection{WatSat Satellite Design Team}
 \descript{| Structures Subsystem Lead }
-\location{September 2016 – Present | Waterloo, ON}
+\location{September 2016 – August 2018 | Waterloo, ON}
 \begin{tightemize}
 \item Designed components for CubeSat satellite structural redesign.
-\item Collaborated with other subsystems to integrate attitude control hardware and communications antennas into the satellite frame.
+\item Integrated attitude control hardware and communications antennas into the satellite frame.
 \item Documented and simulated structural design properties for presentation at the Canadian Satellite Design Challenge's CDR (Critical Design Review).
 \item Developed understanding of DFM and designing to specification (maximizing resistance to stress while minimizing weight and cost to manufacture).
 \end{tightemize}
@@ -213,20 +227,20 @@ I am a highly motivated Mechanical Engineering student with strong administratio
 \descript{| 1\textsuperscript{st} Place Group Leader  }
 \location{January 2016 – May 2016 | Calgary, AB}
 \begin{tightemize}
-\item Challenge set by Alta Injection Molding (AIM) to improve the design of a reusable coffee pod for a Keurig machine. 
+%\item Challenge set by Alta Injection Molding (AIM) to improve the design of a reusable coffee pod for a Keurig machine. 
 \item Developed \& tested a new prototype and presented this prototype to the competition host.
 \item Group placed first; company integrated suggested changes into new pod design.
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Automated Forklift Model}
-\descript{| Group Member }
-\location{January 2017 – April 2017 | Waterloo, ON}
-\begin{tightemize}
-\item Developed a model automated forklift for a course project, capable of sorting inventory into different colour coded areas (written in RobotC).
-\item Received score of 5/5 for robot performance.
-\end{tightemize}
-\sectionsep
+%\runsubsection{Automated Forklift Model}
+%\descript{| Group Member }
+%\location{January 2017 – April 2017 | Waterloo, ON}
+%\begin{tightemize}
+%\item Developed a model automated forklift for a course project, capable of sorting inventory into different colour coded areas (written in RobotC).
+%\item Received score of 5/5 for robot performance.
+%\end{tightemize}
+%\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     PUBLICATIONS
