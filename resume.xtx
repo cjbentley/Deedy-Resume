@@ -47,11 +47,13 @@
 
 \documentclass[]{resume}
 \usepackage{fancyhdr}
+\usepackage{setspace}
  
 \pagestyle{fancy}
 \fancyhf{}
  
 \begin{document}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -60,7 +62,7 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \flushleft 
-{\huge \textbf{Cameron Bentley}} \\ {\large \href{mailto:cjbentle@edu.uwaterloo.ca}{cjbentle@edu.uwaterloo.ca} | 587-703-6830} \\
+{\huge \textbf{Cameron Bentley}} \hfill \raisebox{.5ex}{{\large \href{mailto:cjbentle@edu.uwaterloo.ca}{cjbentle@edu.uwaterloo.ca} | 587-703-6830}} \\
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %
@@ -86,6 +88,7 @@
 %     SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\vspace{-5.55pt}
 \section{Skills}
 
 \subsection{CAD/Technical Drafting}
@@ -108,20 +111,16 @@
 		Linux \textbullet{} Windows Server \\ \medskip
 	\location{Software}
 		MySQL \textbullet{} Docker \textbullet{} Hyper-V \textbullet{} apache \textbullet{} nginx \textbullet{} WordPress \\ \medskip
-	\location{Office Software}
-		Word \textbullet{} Excel (VBA, Power Pivot, Power Query) \textbullet{} PowerPoint \textbullet LaTeX \textbullet Photoshop \\ 
 \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Coursework}
-	Electrical Circuits \& Instrumentation \\
-	Electromechanical Devices \& Power Processing \\
-	Structure \& Properties of Materials \\
-	Control of Properties of Materials \\
-	Mechanics of Deformable Solids \\ \medskip
+		
+\subsection{Office Software}
+	\location{Excel Experience}
+		VBA \textbullet{} Power Pivot \textbullet{} Power Query \textbullet{} Power BI \\ \medskip 
+	\location{Multimedia Software}	
+		Photoshop \textbullet{} Premiere Pro \textbullet{} After Effects \textbullet{} Final Cut Pro \\ \medskip
+	\location{Other}
+		Primavera P6 \textbullet{} SAP \textbullet{} Bluebeam
+\sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     ADDITIONAL INFORMATION
@@ -156,8 +155,9 @@
 %     SUMMARY OF QUALIFICATIONS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\section{Summary of Qualifications}
-I am a highly motivated Mechanical Engineering student with strong administration and design skills and a strong interest in the automotive industry. I am ambitious to develop new skills through challenging work placements, as well as to experience new industries and locations. I am capable of working in fast-paced environments as both a leader and a member. 
+%\section{Summary of Qualifications}
+%\vspace{5.5pt}
+%I am a highly motivated Mechanical Engineering student with strong administration and design skills and a strong interest in the automotive industry. I am ambitious to develop new skills through challenging work placements, as well as to experience new industries and locations. I am capable of working in fast-paced environments as both a leader and a member. 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -169,13 +169,16 @@ I am a highly motivated Mechanical Engineering student with strong administratio
 \descript{| Intern Project Coordinator }
 \location{January 2019 - April 2019 | Calgary, AB}
 %\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\vspace{-2pt}
+\vspace{-1pt}
 \hfill
+\begin{spacing}{1.075}
 \begin{tightemize}
-\item Project coordinator for platform installation on Enbridge T-South compressor station.
-\item Managed requisitions, labour \& material tracking, and equipment acquisition.
-\item Assisted with subcontract disputes, KPI reports, and cost control.
+\item Project coordinator for platform installation on a T-South compressor station
+\item Managed requisitions, labour \& material tracking, and equipment acquisition
+\item Assisted with subcontract disputes and cost control, and tracked KPIs
+\item Provided Project Status Reports for client and collaborated with client's internal project auditing
 \end{tightemize}
+\end{spacing}
 \sectionsep
 
 \runsubsection{NouvLR Group}
@@ -183,9 +186,13 @@ I am a highly motivated Mechanical Engineering student with strong administratio
 \location{September 2018 - December 2018 | Montréal, QC}
 \vspace{-10pt}
 \hfill
+\begin{spacing}{1.075}
 \begin{tightemize}
-\item Design management intern during early construction phase of the Réseau express métropolitain LRT network in Montréal.
+\item Intern on design management team during early construction phase of CDPQ Infra's Réseau express métropolitain LRT network in Montréal
+\item Validated design \& construction plans against external constraints (such as peak vibration ordinances for nearby buildings) before issuance for contruction
+\item Tracked design progress by section against mandated targets from client
 \end{tightemize}
+\end{spacing}
 \sectionsep
 
 \runsubsection{Aecon Group, Inc.}
@@ -193,44 +200,62 @@ I am a highly motivated Mechanical Engineering student with strong administratio
 \location{May 2017 - Aug. 2017 \& Jan. 2018 - Apr. 2018 | Fort St. John, BC \& Calgary, AB}
 \vspace{-10pt}
 \hfill
+\begin{spacing}{1.075}
 \begin{tightemize}
-\item On-site intern during a gas cogeneration facility turnaround operation, and office intern during pre-build phase of CNRL's Kirby North metering station.
-\item Assisted with project controls, planning, scheduling, QC, and reporting.
-\item Developed red line corrections and P\&ID’s for in-field revisions to IFC drawings, and reviewed drawings, models, and PFDs to ensure accuracy prior to issuance.
-\item Analysed productivity and costs to improve cost control \& efficiency.
-\item Created Site-Specific Safety Plan, Emergency Response Procedure and other critical safety \& regulatory documentation.
-\item Developed procurement contracts and cost comparisons between vendors.
-\item Processed procurement information with SAP and managed document control.
-\item Collaborated in development of construction schedule using Primavera P6.
-\item Automated reporting, document control, and other office processes with Power Pivot, VBA, and Bluebeam.
+\item On-site intern during an Enbridge cogen facility turnaround operation, and office intern during pre-build phase of CNRL's Kirby North metering station
+\item Assisted with project controls, planning, scheduling, QC, and reporting
+\item Collaborated on in-field revisions to IFC drawings to decrease site downtime
+\item Analysed productivity and cost trends to improve cost control \& efficiency
+\item Created critical safety \& regulatory documentation, such as the SSSP and ERP
+\item Acquired procurement contracts and compared costs between vendors
+\item Managed document control
+\item Collaborated in development of construction schedule using Primavera P6
+\item Automated reporting, document control, and other office processes
 \end{tightemize}
+\end{spacing}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     Projects
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+\vspace{-10pt}
 \section{Projects}
 
 \runsubsection{WatSat Satellite Design Team}
 \descript{| Structures Subsystem Lead }
 \location{September 2016 – August 2018 | Waterloo, ON}
+\begin{spacing}{1.075}
 \begin{tightemize}
 \item Designed components for CubeSat satellite structural redesign.
-\item Integrated attitude control hardware and communications antennas into the satellite frame.
+\item Integrated attitude control and communications hardware into satellite frame.
 \item Documented and simulated structural design properties for presentation at the Canadian Satellite Design Challenge's CDR (Critical Design Review).
 \item Developed understanding of DFM and designing to specification (maximizing resistance to stress while minimizing weight and cost to manufacture).
 \end{tightemize}
+\end{spacing}
 \sectionsep
 
 \runsubsection{AIM Engineering Challenge}
 \descript{| 1\textsuperscript{st} Place Group Leader  }
 \location{January 2016 – May 2016 | Calgary, AB}
+\begin{spacing}{1.075}
 \begin{tightemize}
 %\item Challenge set by Alta Injection Molding (AIM) to improve the design of a reusable coffee pod for a Keurig machine. 
 \item Developed \& tested a new prototype and presented this prototype to the competition host.
 \item Group placed first; company integrated suggested changes into new pod design.
 \end{tightemize}
+\end{spacing}
+\sectionsep
+
+\runsubsection{Automotive Projects}
+\descript{}
+\location{}
+\begin{spacing}{1.075}
+\begin{tightemize}
+\item Hands-on experience maintaining, repairing, and modifying vehicles for reliable track use, as well as fabricating basic components
+\item Assisting in fabricating engine \& transmission mounting hardware for a track-prepped Mazda Miata (Chevrolet LS3 small-block \& Getrag 260 5-speed)
+\end{tightemize}
+\end{spacing}
 \sectionsep
 
 %\runsubsection{Automated Forklift Model}
